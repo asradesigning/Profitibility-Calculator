@@ -64,7 +64,7 @@ A professional business profitability analysis application that transforms compl
    npm run dev
    ```
 
-6. Access the application at `http://localhost:5000`
+6. Access the application at `http://localhost:3000`
 
 ## Project Structure
 

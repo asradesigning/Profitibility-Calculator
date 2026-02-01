@@ -5,6 +5,9 @@
 # Ignore built ts files
 
 dist/**/*
+# Dependency directory
+
+node_modules
 
  
 # ignore yarn.lock
@@ -49,9 +52,7 @@ coverage
 
 .env
  
-# Dependency directory
 
-node_modules
 
 bower_components
  
